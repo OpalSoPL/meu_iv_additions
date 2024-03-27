@@ -1,0 +1,23 @@
+{
+	"definitions":
+	[
+		{
+			"name": "Słupek Pikietażowy Europa",
+			"subName": "",
+			"extraMaterials": []
+		}
+	],
+
+	"general": {
+		"name": "Słupek Pikietażowy Europa",
+		"width": 1,
+		"height": 1,
+		"depth": 1,
+		"oriented": true,
+		"materials": ["minecraft:iron_ingot:0:1"]
+	},
+
+	"crate": {
+		"rows": 60
+	}
+}

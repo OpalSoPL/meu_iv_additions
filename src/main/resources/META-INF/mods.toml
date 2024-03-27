@@ -1,0 +1,37 @@
+# File required to load packs as Forge mods.
+# Find more information on toml format v0.5.0 here:  https://github.com/toml-lang/toml
+
+# Forge settings, don't touch!
+modLoader="javafml"
+loaderVersion="[36,)"
+
+# The license for your pack. This is mandatory metadata and allows for easier comprehension of your redistributive properties.
+# Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.
+license="All rights reserved"
+
+[[mods]] 
+# The ID of your pack.
+modId="meuivadditions"
+# Version number.  Can be whatever format you'd like.
+version="1.0.0-beta1"
+ # Display name for the pack in the in-game mods list.
+displayName="Meu Immersive Vehicles Additions"
+# A URL for the "homepage" for this pack, displayed in the mod UI.
+displayURL="https://discord.gg/MwnRzSU5jK"
+# Pack logo.
+logoFile="logomeu.png"
+authors="OpalSoPL"
+credits="Warthog441EU"
+# The description text for the pack (multi line!)
+description='''
+Additions for Minecraft Europe Server
+Adds:
+- Custom licence plates
+'''
+
+[[dependencies.meuivadditions]]
+    modId="mts"
+    mandatory=true
+    versionRange="[22.6.0,)"
+    ordering="NONE"
+    side="BOTH"

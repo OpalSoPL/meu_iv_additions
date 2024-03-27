@@ -1,0 +1,39 @@
+{
+  "generic": {
+    "type": "generic_licenseplate_euro"
+  },
+  "custom": {
+    "width": 0.25,
+    "height": 0.25
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "plate_eu",
+      "name": "Tablica rejestracyjna Francja",
+      "extraMaterials": []
+    }
+  ],
+  "rendering": {
+    "textObjects": [
+      {
+        "pos": [0.045,0.038,0.001],
+        "rot": [0.0,0.0,0.0],
+        "scale": 0.18,
+        "fieldName": "License Plate",
+        "defaultText": "3KA 5501",
+        "maxLength": 8,
+        "color": "000000"
+      }
+    ],
+    "lightObjects": [],
+    "particles": [],
+    "modelType": "obj"
+  },
+  "general": {
+    "name": "Tablica rejestracyjna Francja",
+    "description": "Dedykowana tablica rejestracyjna Francji na Minecraft Europa",
+    "health": 100,
+    "materials": ["minecraft:iron_ingot:-1:1"]
+  }
+}

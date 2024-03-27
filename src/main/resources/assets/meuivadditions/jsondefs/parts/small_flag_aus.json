@@ -1,0 +1,30 @@
+{
+  "generic": {
+    "type": "generic_flag_small"
+  },
+  "custom": {
+    "width": 0.25,
+    "height": 0.25
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "flag_car",
+      "name": "Mała flaga Austrii",
+      "extraMaterials": []
+    }
+  ],
+  "rendering": {
+    "lightObjects": [],
+    "particles": [],
+    "modelType": "obj"
+  },
+  "general": {
+    "name": "Mała flaga Austrii",
+    "description": "Dedykowana flaga Austrii na Minecraft Europa",
+    "health": 100,
+    "materials": ["minecraft:iron_ingot:-1:1"],
+
+    "todo": "materials"
+  }
+}
