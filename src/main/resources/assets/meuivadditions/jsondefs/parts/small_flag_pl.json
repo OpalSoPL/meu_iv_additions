@@ -23,8 +23,6 @@
     "name": "Mała flaga Polski",
     "description": "Dedykowana flaga Polski na Minecraft Europa",
     "health": 100,
-    "materials": ["minecraft:iron_ingot:-1:1"],
-
-    "todo": "materials"
+    "materials": ["minecraft:stick:1,minecraft:paper:2,minecraft:iron_ingot:1"]
   }
 }

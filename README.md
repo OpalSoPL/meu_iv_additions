@@ -83,9 +83,7 @@ Szablon pliku JSON dla małych flag:
     "name": "NAZWA ITEMU",
     "description": "OPIS",
     "health": 100,
-    "materials": ["minecraft:iron_ingot:-1:1"],
-
-    "todo": "materials"
+    "materials": ["minecraft:stick:1,minecraft:paper:2,minecraft:iron_ingot:1"]
   }
 }
 ```
