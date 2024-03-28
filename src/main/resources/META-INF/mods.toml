@@ -13,7 +13,7 @@ license="All rights reserved"
 # The ID of your pack.
 modId="meuivadditions"
 # Version number.  Can be whatever format you'd like.
-version="1.0.0-beta1"
+version="1.0.0"
  # Display name for the pack in the in-game mods list.
 displayName="Meu Immersive Vehicles Additions"
 # A URL for the "homepage" for this pack, displayed in the mod UI.
@@ -27,6 +27,7 @@ description='''
 Additions for Minecraft Europe Server
 Adds:
 - Custom licence plates
+- Small flags for cars
 '''
 
 [[dependencies.meuivadditions]]
