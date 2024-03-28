@@ -10,7 +10,7 @@
     {
       "subName": "",
       "modelName": "plate_eu",
-      "name": "Tablica rejestracyjna Niderlandy",
+      "name": "Tablica rejestracyjna Śląska",
       "extraMaterials": []
     }
   ],
@@ -31,8 +31,8 @@
     "modelType": "obj"
   },
   "general": {
-    "name": "Tablica rejestracyjna Niderlandy",
-    "description": "Dedykowana tablica rejestracyjna Niderlandów na Minecraft Europa",
+    "name": "Tablica rejestracyjna Śląska",
+    "description": "Dedykowana tablica rejestracyjna Śląsku na Minecraft Europa",
     "health": 100,
     "materials": ["minecraft:iron_ingot:-1:1"]
   }

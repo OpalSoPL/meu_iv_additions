@@ -10,7 +10,7 @@
     {
       "subName": "",
       "modelName": "plate_eu",
-      "name": "Tablica rejestracyjna Czechy",
+      "name": "Tablica rejestracyjna Dania",
       "extraMaterials": []
     }
   ],
@@ -31,8 +31,8 @@
     "modelType": "obj"
   },
   "general": {
-    "name": "Tablica rejestracyjna Czechy",
-    "description": "Dedykowana tablica rejestracyjna Czech na Minecraft Europa",
+    "name": "Tablica rejestracyjna Dania",
+    "description": "Dedykowana tablica rejestracyjna Danii na Minecraft Europa",
     "health": 100,
     "materials": ["minecraft:iron_ingot:-1:1"]
   }

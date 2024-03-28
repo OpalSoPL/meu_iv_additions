@@ -10,7 +10,7 @@
     {
       "subName": "",
       "modelName": "plate_eu",
-      "name": "Tablica rejestracyjna Wielka Brytania",
+      "name": "Tablica rejestracyjna Państwa-Miasta Ulm",
       "extraMaterials": []
     }
   ],
@@ -31,8 +31,8 @@
     "modelType": "obj"
   },
   "general": {
-    "name": "Tablica rejestracyjna Wielka Brytania",
-    "description": "Dedykowana tablica rejestracyjna Wielkiej Brytanii na Minecraft Europa",
+    "name": "Tablica rejestracyjna Państwa-Miasta Ulm",
+    "description": "Dedykowana tablica rejestracyjna Państwa-Miasta Ulm na Minecraft Europa",
     "health": 100,
     "materials": ["minecraft:iron_ingot:-1:1"]
   }

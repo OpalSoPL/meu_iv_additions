@@ -10,7 +10,7 @@
     {
       "subName": "",
       "modelName": "plate_eu",
-      "name": "Tablica rejestracyjna Chorwacja",
+      "name": "Tablica rejestracyjna Małopolska",
       "extraMaterials": []
     }
   ],
@@ -31,8 +31,8 @@
     "modelType": "obj"
   },
   "general": {
-    "name": "Tablica rejestracyjna Chorwacja",
-    "description": "Dedykowana tablica rejestracyjna Chorwacji na Minecraft Europa",
+    "name": "Tablica rejestracyjna Małopolska",
+    "description": "Dedykowana tablica rejestracyjna Małopolsce na Minecraft Europa",
     "health": 100,
     "materials": ["minecraft:iron_ingot:-1:1"]
   }

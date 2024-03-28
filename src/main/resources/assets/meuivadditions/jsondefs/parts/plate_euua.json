@@ -10,7 +10,7 @@
     {
       "subName": "",
       "modelName": "plate_eu",
-      "name": "Tablica rejestracyjna Luksemburg",
+      "name": "Tablica rejestracyjna Ukraina",
       "extraMaterials": []
     }
   ],
@@ -31,8 +31,8 @@
     "modelType": "obj"
   },
   "general": {
-    "name": "Tablica rejestracyjna Luksemburg",
-    "description": "Dedykowana tablica rejestracyjna Luksemburgu na Minecraft Europa",
+    "name": "Tablica rejestracyjna Ukraina",
+    "description": "Dedykowana tablica rejestracyjna Ukrainie na Minecraft Europa",
     "health": 100,
     "materials": ["minecraft:iron_ingot:-1:1"]
   }

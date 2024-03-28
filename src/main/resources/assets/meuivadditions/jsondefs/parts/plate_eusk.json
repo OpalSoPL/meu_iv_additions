@@ -10,7 +10,7 @@
     {
       "subName": "",
       "modelName": "plate_eu",
-      "name": "Tablica rejestracyjna Francja",
+      "name": "Tablica rejestracyjna Słowacja",
       "extraMaterials": []
     }
   ],
@@ -31,8 +31,8 @@
     "modelType": "obj"
   },
   "general": {
-    "name": "Tablica rejestracyjna Francja",
-    "description": "Dedykowana tablica rejestracyjna Francji na Minecraft Europa",
+    "name": "Tablica rejestracyjna Słowacja",
+    "description": "Dedykowana tablica rejestracyjna Słowacja na Minecraft Europa",
     "health": 100,
     "materials": ["minecraft:iron_ingot:-1:1"]
   }
